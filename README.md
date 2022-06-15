@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kotyara67
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning ... js and python... maybe?
+- 🌱 I’m currently learning ... js and C#... maybe?
 - 💞️ I’m looking to collaborate ... nowhere, I'm too social phobic
 - 📫 How to reach me? just text me in twitter lol - @ihavenotwittersoforget
 
